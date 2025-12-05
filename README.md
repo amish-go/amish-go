@@ -38,7 +38,7 @@ Building scalable systems with Go, AWS, and Kubernetes.
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amish-go&theme=transparent&hide_border=true&ring=00ADD8&fire=00ADD8&currStreakLabel=333)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amish-go&theme=transparent&hide_border=true&ring=00ADD8&fire=00ADD8&currStreakLabel=333)](https://git.io/streak-stats)
 
 </div>
 
@@ -46,7 +46,7 @@ Building scalable systems with Go, AWS, and Kubernetes.
 <summary>📈 Contribution Stats</summary>
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asxy-dev&show_icons=true&theme=transparent&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=333&bg_color=00000000)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amish-go&show_icons=true&theme=transparent&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=333&bg_color=00000000)](https://github.com/amish-go)
 
 </details>
 
@@ -54,15 +54,7 @@ Building scalable systems with Go, AWS, and Kubernetes.
 <summary>💻 Most Used Languages</summary>
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asxy-dev&layout=compact&theme=transparent&hide_border=true&title_color=00ADD8&text_color=333&bg_color=00000000)
-
-</details>
-
-<details>
-<summary>🔥 Contribution Graph</summary>
-<br>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asxy-dev&theme=minimal&hide_border=true&color=00ADD8&line=00ADD8&point=333)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amish-go&layout=compact&theme=transparent&hide_border=true&title_color=00ADD8&text_color=333&bg_color=00000000)](https://github.com/amish-go)
 
 </details>
 
@@ -84,6 +76,6 @@ Building scalable systems with Go, AWS, and Kubernetes.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amish-lamsal-a86379369/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact.amish@yahoo.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=asxy-dev&color=00ADD8&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=amish-go&color=00ADD8&style=flat-square)
 
 </div>
