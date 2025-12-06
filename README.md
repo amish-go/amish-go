@@ -54,7 +54,7 @@ Building scalable systems with Go, AWS, and Kubernetes.
 <summary>💻 Most Used Languages</summary>
 <br>
 
-[![Top Languages]((https://github-readme-mwendwa.vercel.app/api/top-langs/?/api/top-langs/?username=amish-go&layout=compact&theme=dark&text_color=FFFFFF&bg_color=000000&border_color=FFFFFF)](https://github.com/amish-go/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amish-go&layout=compact&theme=dark&text_color=FFFFFF&bg_color=000000&border_color=FFFFFF)](https://github.com/amish-go)
 
 
 </details>
